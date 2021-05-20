@@ -1,0 +1,25 @@
+bin
+bin-int
+.vs
+.idea
+.vscode
+cmake-build-debug
+.DS_Store
+
+# XCode
+**/*.xc*
+
+# Visual Studi0
+*.vcxproj*
+**/*.sln
+
+# Make
+**/Makefile
+**/*.make
+
+# Node
+/node_modules
+
+# Misc
+
+.vscode/ipch
