@@ -8,7 +8,9 @@ Typical algorithms for simulating the ocean suffer can only simulate deep/infini
 
 This project introduces an algorithm for ocean simulation where by extending the existing Gerstner waves algorithm, and incorporating height fields is able to incorporate shoreline waves and ocean waves in a single render pass suitable for real-time interactive applications viewed at moderate to far distance with a reasonable performance cost completely simulated on the GPU.
 
-<img width="500" src="https://raw.githubusercontent.com/ivSlesser/Tidal/master/Tidal.png" /><br/>
+<p align="center">
+<img width="500" src="https://raw.githubusercontent.com/islesser/BSc-Dissertation/main/Tidal.png" />
+</p>
 
 This project uses GLFW and OpenGL for window and GPU access. It also incorporates an implementation of Perlin noise for random terrain generation.
 
