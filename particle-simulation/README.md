@@ -4,7 +4,7 @@ This project a GPU based particle simulation system meant to simulate the moveme
 
 This project serves as a prototype for a BSc Computer Science Dissertation project, discarded in favor of another topic the actual implementation is complete and able to be used.
 
-<img width="500" src="https://raw.githubusercontent.com/ivSlesser/Particle/master/particle.png" alt="Particle Demonstration"><br/>
+<img width="500" src="https://github.com/islesser/BSc-Dissertation/blob/main/particle-simulation/particle.png" alt="Particle Demonstration"><br/>
 
 This project uses GLFW and OpenGL to handle windowing and GPU commands.
 
